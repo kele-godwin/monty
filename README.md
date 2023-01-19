@@ -63,15 +63,6 @@ typedef struct instruction_s
 } instruction_t;
 ```
 
-## List of files/Descriptions:
-| S/N   |   Files      		|      Description     |
-|:-----:|--------------------:|--------------------|
-|  1.   |                      |              |
-|  2.   |		|			|
-|  3.   |		|		|
-|  4.   |		|			|
-|  5.   |		|		|
-
 ## Compilation & Output
 * These codes were compiled using: ```gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty```
 * Any output must be printed on ```stdout```
