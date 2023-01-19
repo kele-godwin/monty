@@ -21,12 +21,11 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 * Allowed editors: **vi**, **vim**, **emacs**
 * All files is compiled on **Ubuntu 20.04 LTS using gcc**, using the options **-Wall -Werror -Wextra -pedantic -std=gnu89**
 * All files ends with a new line
-* There is **README.md** file at the root of the **alx-low_level_programming**
 * Maximum of one global variable is allowed
 * No more than 5 functions per file
 * The C standard library is allowed
 * The prototypes of all the functions were included in the header file called monty.h
-* All the header files are include guarded
+* All the header files included are guarded
 
 ## Instruction given:
 * To use the following data structures for this project, and to also include them in the header file.
